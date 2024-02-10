@@ -1,7 +1,3 @@
-Hello world old asd
-Where are you from
-Where do you live?
+Привет это мой первый репозитиорий.
 
-This is for release! Important!
-
-Not important
+Донаты слатт сюда:
